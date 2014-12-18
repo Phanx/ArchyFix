@@ -1,0 +1,11 @@
+## Interface: 60000
+
+## Title: ArchyFix
+## Notes: Dirty lazy hacks to work around some "quirks" in Archy.
+## Author: Phanx
+## X-Email: addons@phanx.net
+## X-Website: https://github.com/Phanx/ArchyFix
+
+## Dependencies: Archy
+
+ArchyFix.lua
